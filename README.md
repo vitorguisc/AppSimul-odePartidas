@@ -1,1 +1,1 @@
-# AppSimul-odePartidas
+# AppSimuladorPartidas
